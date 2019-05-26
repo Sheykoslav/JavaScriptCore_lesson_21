@@ -1,0 +1,18 @@
+#draggable{
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+  box-sizing: border-box;
+  background: yellow;
+  border: solid 1px black;
+  margin-top: 50px;
+}
+#droppable{
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+  box-sizing: border-box;
+  background: blue;
+  border: dashed 5px black;
+  margin-top: 100px;
+}
